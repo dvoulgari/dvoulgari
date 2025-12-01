@@ -14,11 +14,11 @@ I am a Bioinformatician with a strong foundation in Molecular Biology (Integrate
 
 Currently, I am completing my MSc in Bioinformatics at the University of Athens, focusing on Machine Learning applications in Genomics.
 
-🔭 **I’m currently working on**: Single-cell RNA-seq integration and miRNA target prediction at the Hellenic Pasteur Institute.
+- 🔭 **I’m currently working on**: Single-cell RNA-seq integration and miRNA target prediction at the Hellenic Pasteur Institute.
 
-🚀 **My superpower**: Automating wet-lab workflows. At DKFZ (Germany), I built an R pipeline that reduced drug screening analysis time by 75%.
+- 🚀 **My superpower**: Automating wet-lab workflows. At DKFZ (Germany), I built an R pipeline that reduced drug screening analysis time by 75%.
 
-🎯 **Research Interests**: Cancer Genomics, Spatial Omics, The Tumor Microenvironment, and Single-Cell Analysis.
+- 🎯 **Research Interests**: Cancer Genomics, Spatial Omics, The Tumor Microenvironment, and Single-Cell Analysis.
 
 🛠️ **Technical Arsenal**
 

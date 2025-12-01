@@ -24,11 +24,7 @@ Currently, I am completing my MSc in Bioinformatics at the University of Athens,
 
 <div align="left">
 
-- **Languages**
-
-- **Bioinformatics & Data Science**
-
-- **Tools & Workflow**
+- **Python, R** | **Bioinformatics & Data Science** | **Workflow development**
 
 </div>
 

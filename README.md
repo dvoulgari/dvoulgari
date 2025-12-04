@@ -10,13 +10,13 @@
 
 👩‍🔬 **About Me**
 
-I am a Bioinformatician with a strong foundation in Molecular Biology (Integrated Master's). My journey started at the bench—performing Western Blots, qPCRs and Drug Screens—which gives me a unique advantage in understanding the biological "messiness" behind genomic data.
+I am a Bioinformatician with a strong foundation in Molecular Biology (Integrated Master's). My journey started at the bench,performing Western Blots, qPCRs and Drug Screens, which gives me a unique advantage in understanding the biological "messiness" behind genomic and transcriptomic data.
 
 Currently, I am completing my MSc in Bioinformatics at the University of Athens, focusing on Machine Learning applications in Genomics.
 
-- 🔭 **I’m currently working on**: Single-cell RNA-seq integration and miRNA target prediction at the Hellenic Pasteur Institute.
+- 🔭 **I’m currently working on**: The genomic context of miRNAs at the Hellenic Pasteur Institute.
 
-- 🚀 **My superpower**: Automating wet-lab workflows. At DKFZ (Germany), I built an R pipeline that reduced drug screening analysis time by 75%.
+- 🚀 **My superpower**: Automating wet-lab workflows. At DKFZ (Germany), I built an R pipeline that reduced drug screening analysis time from hours to minutes.
 
 - 🎯 **Research Interests**: Cancer Genomics, Spatial Omics, The Tumor Microenvironment, and Single-Cell Analysis.
 
